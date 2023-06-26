@@ -1,12 +1,7 @@
 # Credit card offer project (classification)
 
-## Introduction
-In this project, a model is made that serves to classify when a customer who has a credit card accepts or rejects a reward program offered by the bank.
-Ideas for better understanding customers are also provided.
-
 ## Description
-In this work, a model is obtained that classifies whether or not a client accepts the offered offer, performing a logistic regression, 
-and considering the imbalance data in this objective column (accepts or rejects).
+In this project, a model is obtained that classifies when a customer who has a credit card accepts or rejects a reward program offered by the bank, performing a logistic regression, and considering the imbalance data in this objective column (accepts or rejects).
 
 Several techniques for the treatment of imbalance data are discussed, such as the oversampling, undersampling and the Synthetic Minority Over-sampling Technique. 
 
@@ -22,5 +17,16 @@ Likewise, some other interesting ideas on the database are reviewed, making grap
 
 ## Instructions
 
+- Clone the repo to run the model into your local environment
+```
+    https://github.com/RetCast/data_mid_bootcamp_project_classification
+ ```
+- You could open the file with `jupyter-notebooks` or `google-collaboratory` to run it
+
 ## Project structure
 
+Credit card offer project
+* README.txt
+* creditcardmarketing.csv
+* credit_card_offer_classification.ipynb
+* credit_card_offer_classification.twb
