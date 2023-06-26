@@ -16,6 +16,10 @@ All of the above is done with due exploratory data analysis, cleaning and treatm
 
 Likewise, some other interesting ideas on the database are reviewed, making graphs.
 
+## Planning
+
+- Into this [Github](https://github.com/users/RetCast/projects/1) you can find the workflow that was followed to reach the clasification model.
+
 ## Instructions
 
 ## Project structure
