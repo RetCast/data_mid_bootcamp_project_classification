@@ -7,7 +7,7 @@ Several techniques for the treatment of imbalance data are discussed, such as th
 
 The confusion matrixes and the metrics that evaluate the performance of the classification model are calculated, such as precision, accuracy, sensitivity or recall, F1 score and Cohen's Kappa Score.
 
-All of the above is done with due exploratory data analysis, cleaning and treatment.
+All of the above is done with due exploratory data analysis, cleaning and processing data.
 
 Likewise, some other interesting ideas on the database are reviewed, making graphs.
 
