@@ -30,6 +30,6 @@ Credit card offer project
 * data/creditcardmarketing.csv
 * data/creditcardmarketing.xlsx
 * credit_card_offer_classification.ipynb
-* into this [Tableau]([https://github.com/users/RetCast/projects/1](https://public.tableau.com/app/profile/daniel.retana/viz/credit_card_offer_classification/CreditCardOfferClassification?publish=yes)https://public.tableau.com/app/profile/daniel.retana/viz/credit_card_offer_classification/CreditCardOfferClassification?publish=yes) you can find the story in which the results and exploratory plots are displayed.
+* Into this [Tableau](https://public.tableau.com/app/profile/daniel.retana/viz/credit_card_offer_classification/CreditCardOfferClassification?publish=yes) you can find the story in which the results and exploratory plots are displayed.
 
 
