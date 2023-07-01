@@ -28,5 +28,6 @@ Likewise, some other interesting ideas on the database are reviewed, making grap
 Credit card offer project
 * README.txt
 * creditcardmarketing.csv
+* creditcardmarketing.xlsx
 * credit_card_offer_classification.ipynb
 * credit_card_offer_classification.twb
