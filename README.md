@@ -26,7 +26,7 @@ Likewise, some other interesting ideas on the database are reviewed, making grap
 ## Project structure
 
 Credit card offer project
-* README.txt
+* README.md
 * creditcardmarketing.csv
 * creditcardmarketing.xlsx
 * credit_card_offer_classification.ipynb
