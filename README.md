@@ -27,7 +27,9 @@ Likewise, some other interesting ideas on the database are reviewed, making grap
 
 Credit card offer project
 * README.md
-* creditcardmarketing.csv
-* creditcardmarketing.xlsx
+* data/creditcardmarketing.csv
+* data/creditcardmarketing.xlsx
 * credit_card_offer_classification.ipynb
-* credit_card_offer_classification.twb
+* into this [Tableau]([https://github.com/users/RetCast/projects/1](https://public.tableau.com/app/profile/daniel.retana/viz/credit_card_offer_classification/CreditCardOfferClassification?publish=yes)https://public.tableau.com/app/profile/daniel.retana/viz/credit_card_offer_classification/CreditCardOfferClassification?publish=yes) you can find the story in which the results and exploratory plots are displayed.
+
+
